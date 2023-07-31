@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quizzer AI on IMI Showtime</title>
+    <link>https://martamurawska.github.io/showtime-website/ss23/master/m5-quizzer-ai/</link>
+    <description>Recent content in Quizzer AI on IMI Showtime</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language><atom:link href="https://martamurawska.github.io/showtime-website/ss23/master/m5-quizzer-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Features</title>
+      <link>https://martamurawska.github.io/showtime-website/ss23/master/m5-quizzer-ai/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://martamurawska.github.io/showtime-website/ss23/master/m5-quizzer-ai/features/</guid>
+      <description>📕 Embeddings Embedding of user-supplied information: As the knowledge of OpenAI&amp;rsquo;s models is limited with a cutoff date in time and lack of really specific information, more recent or specialized information is unavailable to the AI. To counter this, we are using embeddings to inject our information into the AI prompts. Hereby, chunks of information, like paragraphs, are transformed into a vector space. These vectors capture semantic relationships and patterns to be able to classify their textual content.</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://martamurawska.github.io/showtime-website/ss23/master/m5-quizzer-ai/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://martamurawska.github.io/showtime-website/ss23/master/m5-quizzer-ai/process/</guid>
+      <description>Process Trello board In our project, we managed the process using a Trello board, a helpful tool for organizing tasks and responsibilities. The Kanban board allowed us to efficiently distribute tasks among the team members and track the progress of each assignment. This method facilitated clear communication and coordination throughout the project, ensuring that everyone knew their roles and deadlines. We also held meeting sessions every Monday via Microsoft Teams.</description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>https://martamurawska.github.io/showtime-website/ss23/master/m5-quizzer-ai/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://martamurawska.github.io/showtime-website/ss23/master/m5-quizzer-ai/techstack/</guid>
+      <description>💻 Development The project was built upon an existing prototype, reducing the need for starting from scratch. Flutter, a Google-developed open-source framework for cross-platform app development, was chosen for the UI. It utilizes Dart, a programming language tightly integrated with Flutter. The Isar database is a robust Flutter package that seamlessly integrates databases. It offers fast performance, supports various data types, and facilitates efficient data filtering. Additionally, it optimizes offline usage and benefits from a strong community support, making it a reliable data management solution for Flutter applications.</description>
+    </item>
+    
+    <item>
+      <title>Future</title>
+      <link>https://martamurawska.github.io/showtime-website/ss23/master/m5-quizzer-ai/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://martamurawska.github.io/showtime-website/ss23/master/m5-quizzer-ai/future/</guid>
+      <description>🧊 bloc integration We&amp;rsquo;re planning to expand our Flutter application by integrating Bloc for state management. Bloc will provide us with a more structured approach to handle state, making our codebase cleaner and easier to maintain. 🤖 future models As of now, the only currently available models for fine-tuning from OpenAI will be deprecated and no longer accessible in the near future. Instead, new models like gpt-3.5-turbo or gpt-4 will be made available for fine-tuning in the upcoming months.</description>
+    </item>
+    
+  </channel>
+</rss>
