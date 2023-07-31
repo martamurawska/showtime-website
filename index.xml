@@ -528,7 +528,7 @@ Personalized needs with various trackers Different trackers will be developed fo
       
       <guid>https://martamurawska.github.io/showtime-website/ss23/bachelor/b3-shop-gpt/process/</guid>
       <description>Process We started the project with a brainstorming phase to come up with realistic use cases, which can be done in the given time and with regard of our skills. There were multiple different ideas like a chat assistant and including the OpenAI speech recognition Whisper. Finally we decided on 3 use cases to explore: curated shopping list, product comparison and a product summary.
-The first week was focused on onboarding, reading OpenAI documentation and prompt engineering to test feasability of our selected use cases.</description>
+The first week was focused on onboarding, reading OpenAI documentation and prompt engineering to test feasibility of our selected use cases.</description>
     </item>
     
     <item>
@@ -662,7 +662,7 @@ Raytracing is also a new feature which will come on high end devices as well.</d
       
       <guid>https://martamurawska.github.io/showtime-website/ss23/bachelor/b3-shop-gpt/techstack/</guid>
       <description> Tech stack Our tech stack consists of the following technologies:
-Javascript Chrome Extension React NPM Webpack OpenAI API idealo search API </description>
+Javascript Chrome Extension React NPM Webpack OpenAI API idealo Open Search API Jest </description>
     </item>
     
     <item>
